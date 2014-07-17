@@ -1,4 +1,6 @@
-{ "network":  "ircn",
+{
+  "logfile": "ircd.log",
+  "network":  "ircn",
   "hostname": "localhost",
   "serverDescription": "A Node IRC daemon",
   "serverName": "server1",
